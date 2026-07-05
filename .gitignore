@@ -1,0 +1,10 @@
+.env
+*.pem
+*_key*
+*.key
+.env.*
+*.csv
+*.parquet
+*.json
+__pycache__/
+.DS_Store
